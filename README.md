@@ -1,1 +1,1 @@
-# Computational_Physiscs_Projects
+Computational-Physics-Concepts-Implementations
